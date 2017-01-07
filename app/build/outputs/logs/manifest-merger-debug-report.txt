@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:11:5-73:19
+MERGED from [com.android.support:support-v4:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:13:9-38
+	android:theme
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.quiz_app.C_Qu_Page
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:16:9-19:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:18:13-63
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:17:13-58
+activity#com.example.quiz_app.Java_Qu_Page
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:20:9-23:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:22:13-66
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:21:13-61
+activity#com.example.quiz_app.Cplspls_Qu_page
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:24:9-27:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:26:13-68
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:25:13-64
+activity#com.example.quiz_app.Result
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:30:13-58
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:29:13-55
+activity#com.example.quiz_app.CoreJava_Qu_page
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:34:13-70
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:33:13-65
+activity#com.example.quiz_app.Php_Qu_Page
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:38:13-65
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:37:13-60
+activity#com.example.quiz_app.Android_Qu_Page
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:42:13-69
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:41:13-64
+activity#com.example.quiz_app.About_us
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:46:13-60
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:45:13-57
+activity#com.example.quiz_app.Instruction
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:50:13-63
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:49:13-60
+activity#com.example.quiz_app.All_Answers
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:54:13-64
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:53:13-60
+activity#com.example.quiz_app.Apptitude_Qu_Page
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:58:13-71
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:57:13-66
+activity#com.example.quiz_app.Home_Page
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:60:9-68:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:62:13-62
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:61:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:63:13-67:29
+action#android.intent.action.MAIN
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:64:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:66:17-77
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:66:27-74
+activity#com.example.quiz_app.Programming_Quiz
+ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:69:9-72:20
+	android:label
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:71:13-69
+	android:name
+		ADDED from /home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/AndroidManifest.xml:70:13-65

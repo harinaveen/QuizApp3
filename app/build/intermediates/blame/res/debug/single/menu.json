@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/instruction.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/instruction.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/result.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/result.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/programming__quiz.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/programming__quiz.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/android__qu__page.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/android__qu__page.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/cplspls__qu_page.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/cplspls__qu_page.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/php__qu__page.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/php__qu__page.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/apptitude__qu__page.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/apptitude__qu__page.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/java__qu__page.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/java__qu__page.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/about_us.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/about_us.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/home__page.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/home__page.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/all__answers.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/all__answers.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/core_java__qu_page.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/core_java__qu_page.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/build/intermediates/res/merged/debug/menu/c__qu__page.xml",
+        "source": "/home/naveen/AndroidStudioProjects/Quiz_App3/app/src/main/res/menu/c__qu__page.xml"
+    }
+]

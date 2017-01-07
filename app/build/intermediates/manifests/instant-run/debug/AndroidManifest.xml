@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quiz_app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.quiz_app.C_Qu_Page"
+            android:label="@string/title_activity_c__qu__page" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.Java_Qu_Page"
+            android:label="@string/title_activity_java__qu__page" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.Cplspls_Qu_page"
+            android:label="@string/title_activity_cplspls__qu_page" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.Result"
+            android:label="@string/title_activity_result" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.CoreJava_Qu_page"
+            android:label="@string/title_activity_core_java__qu_page" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.Php_Qu_Page"
+            android:label="@string/title_activity_php__qu__page" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.Android_Qu_Page"
+            android:label="@string/title_activity_android__qu__page" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.About_us"
+            android:label="@string/title_activity_about_us" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.Instruction"
+            android:label="@string/title_activity_instruction" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.All_Answers"
+            android:label="@string/title_activity_all__answers" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.Apptitude_Qu_Page"
+            android:label="@string/title_activity_apptitude__qu__page" >
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.Home_Page"
+            android:label="@string/title_activity_home__page" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.quiz_app.Programming_Quiz"
+            android:label="@string/title_activity_programming__quiz" >
+        </activity>
+    </application>
+
+</manifest>

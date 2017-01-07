@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Programming_Quiz"
+    android:orientation="vertical"
+    android:background="@drawable/a6" >
+    
+    <TextView
+        android:id="@+id/tvvv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12sp"
+        android:text="Select any Language  : "
+        android:textSize="14sp"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/b_c"
+        android:layout_width="180sp"
+        android:layout_height="40sp"
+        android:layout_marginTop="10sp"
+        android:layout_gravity="center"
+        android:text="C"
+        android:background="@drawable/a1"
+        android:textColor="@color/black"
+        android:textStyle="bold"  />
+    <Button
+        android:id="@+id/b_cplspls"
+        android:layout_width="180sp"
+        android:layout_height="40sp"
+        android:layout_marginTop="10sp"
+        android:layout_gravity="center"
+        android:text="C++"
+       android:background="@drawable/a1"
+        android:textColor="@color/black"
+        android:textStyle="bold"   />
+    <Button
+        android:id="@+id/b_java"
+        android:layout_width="180sp"
+        android:layout_height="40sp"
+        android:layout_marginTop="10sp"
+        android:layout_gravity="center"
+        android:text="Core Java"
+        android:background="@drawable/a1"
+        android:textColor="@color/black"
+        android:textStyle="bold"    />
+  
+    <Button
+        android:id="@+id/b_php"
+        android:layout_width="180sp"
+        android:layout_height="40sp"
+        android:layout_marginTop="10sp"
+        android:layout_gravity="center"
+        android:text="PHP"
+        android:background="@drawable/a1"
+        android:textColor="@color/black"
+        android:textStyle="bold"    />
+    <Button
+        android:id="@+id/b_android"
+        android:layout_width="180sp"
+        android:layout_height="40sp"
+        android:layout_marginTop="10sp"
+        android:layout_gravity="center"
+        android:text="Android"
+        android:background="@drawable/a1"
+        android:textColor="@color/black"
+        android:textStyle="bold"    />
+
+
+</LinearLayout>
